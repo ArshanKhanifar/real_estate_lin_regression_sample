@@ -1,0 +1,21 @@
+# Ignore virtual environment files
+conda_env/
+env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore the data directory
+data/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+.idea
+
+# Ignore the log file
+*.log
+
+# Ignore the generated real estate data file
+real_estate_data.csv
